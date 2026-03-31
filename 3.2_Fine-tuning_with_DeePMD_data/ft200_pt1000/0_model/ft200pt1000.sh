@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --account=IscrB_NEXT-LIB
+#SBATCH --account=xxxxx
 #SBATCH --partition=boost_usr_prod  # partition to be used
 #SBATCH --qos normal         # boost_qos_dbg, normal
 #SBATCH --time 24:00:00             # format: HH:MM:SS
