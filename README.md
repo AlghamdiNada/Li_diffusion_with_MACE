@@ -37,7 +37,7 @@ If you use this data in your research, please cite the original paper:
   journal={arXiv preprint arXiv:2510.05020},
   year={2025}
 }
-
+```
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
