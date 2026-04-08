@@ -25,8 +25,8 @@ echo GPU visible $CUDA_VISIBLE_DEVICES
 #srun python3 ./test-run.py
 srun python /leonardo/home/userexternal/nalghamd/programs/mace-0.3.12/mace/cli/run_train.py \
     --name="MACE_0" \
-    --train_file="../3_train.xyz" \
-    --valid_file="../3_valid.xyz" \
+    --train_file="../2_train.xyz" \
+    --valid_file="../2_valid.xyz" \
     --loss='universal' \
     --E0s='{3: -202.82202355577203, 9: -803.8441491412796}' \
     --energy_weight=1 \
