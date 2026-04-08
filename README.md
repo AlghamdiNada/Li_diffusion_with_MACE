@@ -11,9 +11,9 @@ This repository contains the input configuration files and training datasets req
 
 | Directory | Description |
 |-----------|-------------|
-| `ft200_pt{0, 100, 1000}/` | 200 fine-tuning data, (0, 100, 1000) pre-training data|
-| `ft400_pt1000/` | 400 fine-tuning data, 1000 pre-training data|
-| `ft700_pt{0,100,1000,10000}/` | 700 fine-tuning data with varying (0, 100, 1000, 10000) pre-training data|
+| `ft200_pt{0, 100, 1000}/` | 210 fine-tuning data, (0, 100, 1000) pre-training data|
+| `ft400_pt1000/` | 410 fine-tuning data, 1000 pre-training data|
+| `ft700_pt{0,100,1000,10000}/` | 710 fine-tuning data with varying (0, 100, 1000, 10000) pre-training data|
 | `ft800_pt{0,100,1000,10000}/` | 800 fine-tuning data with varying (0, 100, 1000, 10000) pre-training data|
 | `ft1600_pt1000/` | 1600 fine-tuning data, 1000 pre-training data|
 
