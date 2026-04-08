@@ -11,11 +11,11 @@ This repository contains the input files and training datasets required to repro
 
 | Directory | Description |
 |-----------|-------------|
-| `ft200_pt{0, 100, 1000}/` | 210 fine-tuning data, (0, 100, 1000) pre-training data|
-| `ft400_pt1000/` | 410 fine-tuning data, 1000 pre-training data|
-| `ft700_pt{0,100,1000,10000}/` | 710 fine-tuning data with varying (0, 100, 1000, 10000) pre-training data|
-| `ft800_pt{0,100,1000,10000}/` | 800 fine-tuning data with varying (0, 100, 1000, 10000) pre-training data|
-| `ft1600_pt1000/` | 1600 fine-tuning data, 1000 pre-training data|
+| `ft200_pt{0, 100, 1000}/` | 210 fine-tuning data points, (0, 100, 1000) pre-training data points|
+| `ft400_pt1000/` | 410 fine-tuning data points, 1000 pre-training data points|
+| `ft700_pt{0,100,1000,10000}/` | 710 fine-tuning data points with varying (0, 100, 1000, 10000) pre-training data points|
+| `ft800_pt{0,100,1000,10000}/` | 800 fine-tuning data points with varying (0, 100, 1000, 10000) pre-training data points|
+| `ft1600_pt1000/` | 1600 fine-tuning data points, 1000 pre-training data points|
 
 ### Fine-tuning_with_MACE-MPA-0_data
 
