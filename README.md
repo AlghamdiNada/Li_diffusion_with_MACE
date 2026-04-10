@@ -5,6 +5,9 @@ This repository contains the input files and training datasets required to repro
 
 **Comparing fine-tuning strategies for machine learning force fields in lithium-ion diffusion**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
 
+## Installation
+The installation procedure is based on the official setup of [MACE](https://github.com/ACEsuit/mace) and [LAMMPS](https://github.com/lammps/lammps).
+
 ## Repository Contents
 
 ### Fine-tuning_with_DeePMD_data
