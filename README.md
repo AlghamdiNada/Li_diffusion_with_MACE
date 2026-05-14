@@ -1,7 +1,7 @@
 # Overview
 This repository contains the input files and training datasets required to reproduce the results presented in:
 [![arXiv](https://img.shields.io/badge/arXiv-2510.05020-b31b1b.svg)](https://arxiv.org/abs/2510.05020)
-[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2510.05020-blue)](https://doi.org/10.48550/arXiv.2510.05020)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2510.05020-blue)](https://doi.org/10.1088/2515-7655/ae6c5a)
 
 **Comparing fine-tuning strategies for machine learning force fields in lithium-ion diffusion**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
 
