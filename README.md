@@ -4,7 +4,7 @@ This repository contains the input files and training datasets required to repro
 [![DOI](https://img.shields.io/badge/DOI-10.1088%2F2515--7655%2Fae6c5a-blue)](https://doi.org/10.1088/2515-7655/ae6c5a)
 
 **Comparing fine-tuning strategies for machine learning force fields in lithium-ion diffusion**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
-
+<img width="512" height="512" alt="Li-knock-off-slow" src="https://github.com/user-attachments/assets/7e5ef7c7-3c0b-462b-a8d8-4b704ab7368d" />
 ## Installation
 To run the examples in this repository, [MACE](https://github.com/ACEsuit/mace) and [LAMMPS](https://github.com/lammps/lammps) need to be installed. Please follow the installation instructions provided in each repository.
 
